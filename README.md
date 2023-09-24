@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Navindu</h1>
 
-🎓 Undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering, specializing in Data Science and Engineering.
+- 🎓 Undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering, specializing in Data Science and Engineering.
 
-📚 Academic interests encompass mathematics, data science, and machine learning.
+- 📚 Academic interests encompass mathematics, data science, and machine learning.
 
-👨‍💻 More of a Python person. But can handle Java too.
+- 👨‍💻 More of a **Python** person. But can handle **Java** too.
 
-🤝 Team player with a strong dedication to learning.
+- 📖 Figuring out **React** and **React-Native**
 
-🧠 An avid general knowledge & sports enthusiast.
-
-✍️ Enthusiastic about creative writing in my free time.
+You should check out...
+- 🏏 [My T20 Cricket Score Predictor Project](https://github.com/navindu-ds/T20-Cricket-Score-Predictor)
+  - or visit the [Streamlit App](https://navindu-ds-t20-cricket-score-predictor-app-ycpfru.streamlit.app/)
 
 Right Now...
 - 👨‍🎓 3rd year undergraduate @ University of Moratuwa
 - 🎯 Working on the [GoGetOn](https://github.com/Vgr20/DOit) Productivity App with To-Do-List calender, Focus Timer and Habits Tracker with Team FreshFix
 - 🚍 Working on a Machine Learning Model to help me know when my Bus will arrive
+
+Thank you for visiting my profile 🙏 and I hope you enjoy exploring my projects! 🔍
 
 <!--
 **navindu-ds/navindu-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
