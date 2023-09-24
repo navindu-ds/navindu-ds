@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Navindu</h1>
 
 - 🎓 Undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering, specializing in Data Science and Engineering.
-
 - 📚 Academic interests encompass mathematics, data science, and machine learning.
-
 - 👨‍💻 More of a **Python** person. But can handle **Java** too.
-
 - 📖 Figuring out **React** and **React-Native**
 
 You should check out...
