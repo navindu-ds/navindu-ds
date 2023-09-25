@@ -9,9 +9,9 @@ You should check out...
 - 🏏 [My T20 Cricket Score Predictor Project](https://github.com/navindu-ds/T20-Cricket-Score-Predictor)
   - or visit the [Streamlit App](https://navindu-ds-t20-cricket-score-predictor-app-ycpfru.streamlit.app/)
 
-Right Now...
-- 🎯 Working on the [GoGetOn](https://github.com/Vgr20/DOit) Productivity App with To-Do-List calender, Focus Timer and Habits Tracker with Team FreshFix
-- 🚍 Working on a Machine Learning Model to help me know when my Bus will arrive
+Right Now working on ...
+- 🎯 The [GoGetOn](https://github.com/Vgr20/DOit) Productivity App with To-Do-List calender, Focus Timer and Habits Tracker with Team FreshFix
+- 🚍 A Machine Learning Model to help me know when my Bus will arrive
 
 Thank you for visiting my profile 🙏 and I hope you enjoy exploring my projects! 🔍
 
