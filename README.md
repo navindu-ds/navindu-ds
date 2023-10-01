@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Navindu</h1>
 
 - 🎓 Undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering, specializing in Data Science and Engineering.
-- 📚 Academic interests encompass mathematics, data science, and machine learning.
+- 📚 Interested in mathematics, data science, and machine learning.
 - 👨‍💻 More of a **Python**🐍 person. But can handle **Java**☕ too.
 - 📖 Figuring out **React** and **React-Native**
 
 You should check out...
 - 🏏 [My T20 Cricket Score Predictor Project](https://github.com/navindu-ds/T20-Cricket-Score-Predictor)
-  - or visit the [Streamlit App](https://navindu-ds-t20-cricket-score-predictor-app-ycpfru.streamlit.app/)
+  - or visit the [Streamlit App](https://t20-cricket-score-predictor-web.streamlit.app/)
 
 Right Now working on ...
 - 🎯 The [GoGetOn](https://github.com/Vgr20/DOit) Productivity App with To-Do-List calender, Focus Timer and Habits Tracker with Team FreshFix
