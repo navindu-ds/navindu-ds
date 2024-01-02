@@ -11,6 +11,7 @@ You should check out...
 - 🎯 The [GoGetOn](https://github.com/Vgr20/DOit) Productivity App with To-Do-List calender, Focus Timer and Habits Tracker built with Team FreshFix
 
 Right Now working on ...
+- 📈 A Linear Programming Module to solve simple optimization problems with constraints
 - 🚍 A Machine Learning Model to help me know when my Bus will arrive
 
 Thank you for visiting my profile 🙏 and I hope you enjoy exploring my projects! 🔍
