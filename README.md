@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navindu</h1>
 
-- 🎓 Final year undergraduate student pursuing a B.Sc. Engineering Honours in Computer Science and Engineering,
+- 🎓 Final year undergraduate student pursuing a B.Sc. Engineering Honours in Computer Science and Engineering
   - Specializing in Data Science and Engineering.
 - 📚 Interested in machine learning, data science, natural language processing & mathematics.
 - 👨‍💻 More of a **Python**🐍 person. But I can handle **Java**☕ too.
