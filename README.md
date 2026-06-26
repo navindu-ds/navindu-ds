@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navindu</h1>
 
-- 🎓 Final year undergraduate student pursuing a B.Sc. Engineering Honours in Computer Science and Engineering
+- 🎓 First year PhD student in Computer Science at the School of Computing, National University of Singapore
+- 🎓 Graduated with a B.Sc. Engineering Honours in Computer Science and Engineering
   - Specializing in Data Science and Engineering.
+- My research interests are in LLM Agents, Memory Systems and AI 
 - 📚 Interested in machine learning, data science, natural language processing & mathematics.
 - 👨‍💻 More of a **Python**🐍 person. But I can handle **Java**☕ too.
 - 📖 Figuring out **React** and **React-Native** among my list.
@@ -15,11 +17,8 @@ You should check out...
   - or visit the [Streamlit App](https://t20-cricket-score-predictor-web.streamlit.app/)
 - 🎯 The [GoGetOn](https://github.com/Vgr20/DOit) Productivity App with To-Do-List calender, Focus Timer and Habits Tracker built with Team FreshFix
 
-Right Now working on ...
-- 🤖 Making agents follow social norms by teaching normative reasoning to LLMs 🗣 for my final year research.
-
 If you are studying computer science too, 
-- 📝 I can share my notes if you need help.
+- 📝 I can share my undergrad notes if you need help.
   - Head over to my site [libretto](https://navindu-ds.github.io/libretto/)
 
 Thank you for visiting my profile 🙏 I hope you enjoy exploring my projects! 🔍
